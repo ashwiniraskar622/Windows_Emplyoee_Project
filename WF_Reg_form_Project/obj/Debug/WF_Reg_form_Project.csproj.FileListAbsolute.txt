@@ -1,0 +1,40 @@
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\bin\Debug\WF_Reg_form_Project.exe.config
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\bin\Debug\WF_Reg_form_Project.exe
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\bin\Debug\WF_Reg_form_Project.pdb
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.csproj.AssemblyReference.cache
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.Form1.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.Properties.Resources.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.csproj.GenerateResource.cache
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.csproj.CoreCompileInputs.cache
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.exe
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.pdb
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_master_form.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_Job.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_Hobby.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_dept.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_Report.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_emp_reg.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager1.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager2.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager3.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WindowFormsPrograms\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager4.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\bin\Debug\WF_Reg_form_Project.exe.config
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\bin\Debug\WF_Reg_form_Project.exe
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\bin\Debug\WF_Reg_form_Project.pdb
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.csproj.AssemblyReference.cache
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.Form1.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_dept.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_emp_reg.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_Hobby.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_Job.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager1.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager2.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager3.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_master_form.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_Report.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.frm_manager4.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.Properties.Resources.resources
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.csproj.GenerateResource.cache
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.csproj.CoreCompileInputs.cache
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.exe
+C:\LOCAL DISK D(my work files)\C# Programs\WINDOWS FINAL PROJECT\WF_Reg_form_Project\WF_Reg_form_Project\obj\Debug\WF_Reg_form_Project.pdb
